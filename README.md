@@ -1,6 +1,5 @@
-![code-welcome-banner gif](https://github.com/user-attachments/assets/588aa7ae-5ac4-4b76-bb1c-12166f98bab3)
 <p align="center">
-  <img src="./assets/code-welcome-banner.gif" alt="Welcome to TNK" />
+  <img src="./assets/![code-welcome-banner gif](https://github.com/user-attachments/assets/588aa7ae-5ac4-4b76-bb1c-12166f98bab3)" alt="Welcome to TNK" />
 </p>
 
 V<p align="center">
