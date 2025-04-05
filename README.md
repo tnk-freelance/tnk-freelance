@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/code-welcome-banner.gif" alt="Welcome to TNK" />
+</p>
+
 V<p align="center">
   <img src="https://raw.githubusercontent.com/username/repo/main/assets/code-welcome.svg" />
 </p>
@@ -50,22 +54,22 @@ V<p align="center">
 
 ## 📫 Contact
 
-- 🔗 [Twitter](https://twitter.com/) (Your handle here)
-- 🧠 [Zenn](https://zenn.dev/)
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 🔗 [Twitter](https://twitter.com/) 作成中
+- 🧠 [Zenn](https://zenn.dev/)作成中
+- 🌐 [Portfolio](https://your-portfolio.com)作成中
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20TNK-orange?style=for-the-badge" />
 </p>
-- 👋 Hi, I’m @tnk-freelance
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @tnk-freelance作成中
+- 👀 I’m interested in ...作成中
+- 🌱 I’m currently learning ...作成中
+- 💞️ I’m looking to collaborate on ...作成中
+- 📫 How to reach me ...作成中
+- 😄 Pronouns: ...作成中
+- ⚡ Fun fact: ...作成中
 
 <!---
 tnk-freelance/tnk-freelance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
